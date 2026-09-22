@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|d:\\users\\aluno\\desktop\\lucas emanuel\\projeto1\\metalhead\\projeto1\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|solutionrelative:projeto1\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|d:\\users\\aluno\\desktop\\lucas emanuel\\projeto1\\metalhead\\projeto1\\f_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|solutionrelative:projeto1\\f_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\projeto1\\f_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|solutionrelative:projeto1\\f_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\projeto1\\f_cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|solutionrelative:projeto1\\f_cadastroproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\projeto1\\f_gerenciarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6909625-6393-4855-9DED-431FED8FC24E}|Projeto1\\Projeto1.csproj|solutionrelative:projeto1\\f_gerenciarprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_Inicial.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_Inicial.cs",
+              "RelativeDocumentMoniker": "Projeto1\\F_Inicial.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_Inicial.cs",
+              "RelativeToolTip": "Projeto1\\F_Inicial.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:58:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_Principal.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_Principal.cs",
+              "RelativeDocumentMoniker": "Projeto1\\F_Principal.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_Principal.cs [Projeto]",
+              "RelativeToolTip": "Projeto1\\F_Principal.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:47:10.457Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_Inicial.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_Inicial.cs",
+              "RelativeDocumentMoniker": "Projeto1\\F_Inicial.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_Inicial.cs [Projeto]",
+              "RelativeToolTip": "Projeto1\\F_Inicial.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:47:08.311Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_GerenciarProdutos.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_GerenciarProdutos.cs",
+              "RelativeDocumentMoniker": "Projeto1\\F_GerenciarProdutos.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_GerenciarProdutos.cs [Projeto]",
+              "RelativeToolTip": "Projeto1\\F_GerenciarProdutos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:47:05.957Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_CadastroProduto.cs [Projeto]",
+              "DocumentMoniker": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_CadastroProduto.cs",
+              "RelativeDocumentMoniker": "Projeto1\\F_CadastroProduto.cs",
+              "ToolTip": "D:\\Users\\Aluno\\Desktop\\Lucas Emanuel\\Projeto1\\Metalhead\\Projeto1\\F_CadastroProduto.cs [Projeto]",
+              "RelativeToolTip": "Projeto1\\F_CadastroProduto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T11:46:56.81Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
